@@ -1,0 +1,82 @@
+[
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.1583648957125283,
+            "avg_inf_speed": 49.769556988684556,
+            "avg_postprocess_speed": 4.188189415659086
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.147953153971803,
+            "avg_inf_speed": 49.10397386120459,
+            "avg_postprocess_speed": 4.096943492755488
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.1353970798350863,
+            "avg_inf_speed": 49.845903304778226,
+            "avg_postprocess_speed": 4.135664870052663
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.154279496509548,
+            "avg_inf_speed": 50.22902378705942,
+            "avg_postprocess_speed": 4.187838124894092
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.153398519533209,
+            "avg_inf_speed": 48.80634425516234,
+            "avg_postprocess_speed": 4.069587292379458
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.1617843011915383,
+            "avg_inf_speed": 49.86282361067884,
+            "avg_postprocess_speed": 4.158694622150754
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.1701146033008696,
+            "avg_inf_speed": 49.43322633190404,
+            "avg_postprocess_speed": 4.081557005075896
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.15719886863961,
+            "avg_inf_speed": 48.977479532943924,
+            "avg_postprocess_speed": 4.044728389116323
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.147519361291271,
+            "avg_inf_speed": 48.93672358666882,
+            "avg_postprocess_speed": 4.034922139694841
+        }
+    },
+    {
+        "model_name": "yolov9t_pythorch",
+        "results": {
+            "avg_preprocess_speed": 2.1560349937905756,
+            "avg_inf_speed": 49.54706343150546,
+            "avg_postprocess_speed": 4.110677789900463
+        }
+    }
+]

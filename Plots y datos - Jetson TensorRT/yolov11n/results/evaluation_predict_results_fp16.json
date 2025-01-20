@@ -1,0 +1,82 @@
+[
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.0964511538460595,
+            "avg_inf_speed": 5.282237273879132,
+            "avg_postprocess_speed": 4.2095382809041135
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.0936984594989805,
+            "avg_inf_speed": 5.2770850890378656,
+            "avg_postprocess_speed": 4.270582763457609
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.0878264753366547,
+            "avg_inf_speed": 5.280551604306327,
+            "avg_postprocess_speed": 4.2155551814746
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.1039918289261093,
+            "avg_inf_speed": 5.295396688111208,
+            "avg_postprocess_speed": 4.2582686949398
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.090160442570387,
+            "avg_inf_speed": 5.270668113961023,
+            "avg_postprocess_speed": 4.296892504754253
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.1210218982447833,
+            "avg_inf_speed": 5.2999524678007415,
+            "avg_postprocess_speed": 4.3068298006966454
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.090415122396609,
+            "avg_inf_speed": 5.272360240205479,
+            "avg_postprocess_speed": 4.24909974292384
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.125519089617485,
+            "avg_inf_speed": 5.297698850258662,
+            "avg_postprocess_speed": 4.288418481916698
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.0883446830206194,
+            "avg_inf_speed": 5.266512887049822,
+            "avg_postprocess_speed": 4.210472585205568
+        }
+    },
+    {
+        "model_name": "yolov11n_tensorrt_fp16",
+        "results": {
+            "avg_preprocess_speed": 2.0904902110965464,
+            "avg_inf_speed": 5.276205068605474,
+            "avg_postprocess_speed": 4.197986099641087
+        }
+    }
+]
